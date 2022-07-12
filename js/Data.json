@@ -1,0 +1,90 @@
+[
+  {
+    "id": "W01",
+    "name": "Set of BatTrang Porcelain Vases",
+    "pic": "1.jpg",
+    "price": 1100,
+    "description": "<br>_ Ceramics are unique products of Bat Trang pottery village, made from clay, a natural material formed in riverbed areas, or other special lands, and absorbed the essence of the soil. sky, wind, water, and nature.",
+    "cat": "Wares"
+  },
+  {
+    "id": "W02",
+    "name": "Set of White Ceramic Vases",
+    "pic": "2.jpg",
+    "price": 900,
+    "description": "<br>_ Color: white.<br>_ The vase does not come with flowers.<br>_ Can be decorated in living rooms, cafes, shops and as gifts...",
+    "cat": "Wares"
+  },
+  {
+    "id": "W03",
+    "name": "Set of White Enamel Vases",
+    "pic": "3.jpg",
+    "price": 990,
+    "description": "<br>_ The raw material for the vase set is natural and high-grade white clay. The product is fired at a high temperature, from 1000-1300 degrees Celsius, so the ceramic bone is very durable and strong. Therefore, when holding the vase product in your hand, you will feel that they are heavier than other vases of the same size.",
+    "cat": "Wares"
+  },
+  {
+    "id": "W04",
+    "name": "Soup Bowls With Spoons Dual Glazed Studio Pottery In Ceramic",
+    "pic": "wares4.png",
+    "price": 1299,
+    "description": "<br>_ This set of four ceramic dual-toned soup bowls with four spoons, have shallow round bodies with simple handles and have been double fired at 1200 degree Celsius in 100% lead-free glazes.",
+    "cat": "Wares"
+  },
+  {
+    "id": "W05",
+    "name": "The Bee Collective' Hand-painted Ceramic Side/Quarter Plates",
+    "pic": "wares5.png",
+    "price": 1899,
+    "description": "<br>_ The side/quarter plates from the collection 'The Bee Collective' are handmade in ceramic inspired by the awarness raised for the protection of bees.<br>_ It is ideal for serving chapatis, breads or appetizers.",
+    "cat": "Wares"
+  },
+  {
+    "id": "B01",
+    "name": "Set of Brass Vase + Rose",
+    "pic": "4.jpg",
+    "price": 1200,
+    "description": "<br>_ Decorative flower vases are made from the use of bullet casings at the same time as war. Lots of designs and very luxurious",
+    "cat": "Brass"
+  },
+  {
+    "id": "B02",
+    "name": "Brass Vase + Rose Limited Edition",
+    "pic": "5.jpg",
+    "price": 1399,
+    "description": "<br>_ Decorative flower vases are made from the use of bullet casings at the same time as war. This is a limited edition version",
+    "cat": "Brass"
+  },
+  {
+    "id": "B03",
+    "name": "99% Pure Brass Incense Burner",
+    "pic": "6.jpg",
+    "price": 1150,
+    "description": "<br>_ The incense burner is made of pure copper. Sold 100 products. The product is used for worshiping, very suitable for rituals and other ancient items",
+    "cat": "Brass"
+  },
+  {
+    "id": "WD01",
+    "name": "Wooden Carved Spice Box",
+    "pic": "wood1.png",
+    "price": 1099,
+    "description": "<br>_ The lid of the spice box is not detachable.<br>_ As this product is handcrafted there might be a slight color, design or size variation, which is natural and hence makes the product unique.",
+    "cat": "Wood"
+  },
+  {
+    "id": "WD02",
+    "name": "Sheesham Wood Square Spice Box With Spoon",
+    "pic": "wood2.png",
+    "price": 799,
+    "description": "<br>_ Handcrafted in sheesham wood from the interiors of India.<br>_ This set of in-laid boxes has been finished to detail by hand, maintaining the natural feel and brown colour of the wood and is the perfect addition to your kitchen.",
+    "cat": "Wood"
+  },
+  {
+    "id": "H01",
+    "name": "Heart-Shaped House With Mango Wood And Brass",
+    "pic": "home1.png",
+    "price": 899,
+    "description": "<br>_ Exquisitely handcrafted in mango wood by artisans from Indian interiors.<br>_ Equipped with three wooden nameplates on the bottom and two additional information panels on the top.",
+    "cat": "HomeDecor"
+  }
+]
