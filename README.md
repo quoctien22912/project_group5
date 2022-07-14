@@ -1,6 +1,8 @@
 eProjecteProject - Handicrafts
+------------------------------
 
-T1.2203.E1.E0-eProject-Group_5
+T1.2203.E1-eProject-Group_5
+--------------------------------
 
 Batch no.: T1.2203.E1
 
@@ -11,10 +13,15 @@ Project title: Handicrafts
 ========> Group 5 <=========
 
 4 collaborators:
+
 Pham Thien Phuc         Student1370226
+
 Luu Vinh Han            Student1368161
+
 Pham Van Man            Student1370227
+
 Tran Quoc Tien          Student1373324
+
 ============================
 
 eProject documentation at https:
