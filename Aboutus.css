@@ -4,7 +4,7 @@
 
 .name{
     border-radius: 10px;
-    background-image: url("image/About/a1.png");
+    background-image: url("image/about/a1.png");
     background-size: cover;
     text-align: center;
     margin: auto;
@@ -17,7 +17,7 @@
 }
 .name2{
     border-radius: 10px;
-    background-image: url("image/About/a1.png");
+    background-image: url("image/about/a1.png");
     background-size: cover;
     text-align: center;
     padding-right: 15px;
@@ -53,7 +53,7 @@
 }
 .layout5{
     border-radius: 10px;
-    background-image: url("image/About/a0.png");
+    background-image: url("image/about/a0.png");
     background-size: cover;
     background-position: center;
     text-align: center;
