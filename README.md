@@ -24,7 +24,7 @@ Tran Quoc Tien          Student1373324
 
 ============================
 
-eProject documentation at https:
+eProject documentation at https: https://github.com/quoctien22912/project_group5/tree/master/document
 
 ============================
 
