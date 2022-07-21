@@ -86,5 +86,69 @@
     "price": 899,
     "description": "<br>_ Exquisitely handcrafted in mango wood by artisans from Indian interiors.<br>_ Equipped with three wooden nameplates on the bottom and two additional information panels on the top.",
     "cat": "HomeDecor"
+  },
+  {
+    "id": "C01",
+    "name": "Puppet Diyas Rajasthani Dolls Tealight/Diya/Diwali Diya",
+    "pic": "10.jpg",
+    "price": 199,
+    "description": "<br>_Puppet Tealight Candle Holder with its beautiful design and traditional look will add to the peaceful ambience as you use it during Diwali, pujas decor and other auspicious occasions.<br>_ Equipped with three wooden nameplates on the bottom and two additional information panels on the top.",
+    "cat": "Candle Accessories"
+  },
+  {
+    "id": "C02",
+    "name": "Amber & Teal' Studio Pottery Candle Holder In Ceramic",
+    "pic": "h1.png",
+    "price": 649,
+    "description": "<br>_There could be a slight variation in the dual tone glazing/color/finish on the product,<br>as the glazing is done inside the furnace fired at 1280 degree celsius to make the product sturdy and due to the natural property of the studio glazing it is impossible to predict the color of the glazing/finish which will eventually come on the product after the firing process, look will add to the peaceful ambience as you use it during Diwali, pujas decor and other auspicious occasions.",
+    "cat": "Candle Accessories"
+  },
+  {
+    "id": "G01",
+    "name": "Fine Glass Curio - The Peacocks (Set of 2, Medium)",
+    "pic": "h9.jpg",
+    "price": 259,
+    "description": "<br>_This exquisite curio has been handcrafted with utmost care and exceptional skill using a painstaking glass casting & crafting technique.<br>The subtle beauty of its delicate form lends a unique elegance to this masterpiece. Perfect choice as a gift or as a home/office decor.",
+    "cat": "Glass"
+  },
+  {
+    "id": "G02",
+    "name": "Fine Glass Curio - Elephant",
+    "pic": "31.jpg",
+    "price": 243,
+    "description": "<br>_This exquisite curio has been handcrafted with utmost care and exceptional skill using a painstaking glass casting & crafting technique.<br>The subtle beauty of its delicate form lends a unique elegance to this masterpiece. Perfect choice as a gift or as a home/office decor.",
+    "cat": "Glass"
+  },
+  {
+    "id": "A01",
+    "name": "The All-Seeing Owl Rustic Aluminium Wall Decor & Wall Hook (5.6 Inch)",
+    "pic": "12.jpg",
+    "price": 425,
+    "description": "<br>_As this product is handcrafted there might be a slight color or design variation,which is natural and hence makes the product unique<br>_Wipe it with a piece of mildly wet cloth only.",
+    "cat": "Aluminium"
+  },
+  {
+    "id": "A02",
+    "name": "Hand-Painted Decorative Tea Kettle Pot Showpiece, Gold, (Pack of 1)",
+    "pic": "13.jpg",
+    "price":749,
+    "description": "<br>Washing Instruction - Normal Wash From Inside , Do not Scrub on Painted surface, Mild Hand wash from outside , Do not use very hot water",
+    "cat": "Aluminium"
+  },
+  {
+    "id": "I01",
+    "name": "Wrought Iron Bansuri Ganesha Wall Hanging",
+    "pic": "14.jpg",
+    "price":1495,
+    "description": "<br>There are Ganeshas wall hangings and then there are Ganeshas wall hangings that are a piece of art that you will want to own!<br> This one is sure to be in the latter category_crafted using high grade wrought iron, this wall hanging is a testament to the talent of our artisans.<br> The Ganesha in this showpiece has been designed on the lines of the flute wielding Krishna _ you will see the head of Ganesha, complete with his elephant trunk and ears, lost in the music that he is creating with this flutes. <br>Even though there is no body on this wall hanging, there are artistic hands that are holding the notes on the flute!",
+    "cat": "Iron"
+  },
+  {
+    "id": "I01",
+    "name": "Lord Ganesha playing Harmonium Wall Hanging",
+    "pic": "15.jpg",
+    "price":1199,
+    "description": "<br>Enlighten your home with this wall hanging of Lord Ganesha made from Wrought Iron which reflects the artistic brilliance and adds elegance to your decor. <br>Style your home and office with this Iron wall hanging; sure to be admired by your guests. It serves as a great gift, especially around religious celebrations and festivities.<br> This handicraft has been made by skilled artisans from the house of eCraftIndia using various traditional techniques.",
+    "cat": "Iron"
   }
 ]
